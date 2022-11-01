@@ -1,0 +1,13 @@
+﻿  Window.cpp
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.h(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(15): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(105): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(106): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(110): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(111): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(113): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(114): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\octagon man\documents\visual studio 2015\projects\catmullromsplines\catmullromsplines\window.cpp(61): warning C4715: 'Window::Initialize': not all control paths return a value
+  CatmullRomSplines.vcxproj -> C:\Users\OCTAGON MAN\documents\visual studio 2015\Projects\CatmullRomSplines\Debug\CatmullRomSplines.exe
+  CatmullRomSplines.vcxproj -> C:\Users\OCTAGON MAN\documents\visual studio 2015\Projects\CatmullRomSplines\Debug\CatmullRomSplines.pdb (Full PDB)
